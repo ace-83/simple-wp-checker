@@ -1,0 +1,1 @@
+# simple-wp-checker
