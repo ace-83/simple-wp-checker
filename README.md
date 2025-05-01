@@ -20,5 +20,5 @@ Welcome to the **WP Enumeration Tool**! This Python script is designed to help s
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/wp-enumeration-tool.git
-   cd wp-enumeration-tool
+   git clone https://github.com/ace-83/simple-wp-checker.git
+   cd simple-wp-checker
