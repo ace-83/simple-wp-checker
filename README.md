@@ -22,3 +22,4 @@ Welcome to the **WP Enumeration Tool**! This Python script is designed to help s
    ```bash
    git clone https://github.com/ace-83/simple-wp-checker.git
    cd simple-wp-checker
+Create a domains.txt file and list the domains you want to test, one per line.
